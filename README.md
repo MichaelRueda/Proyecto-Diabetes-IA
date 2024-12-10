@@ -16,3 +16,12 @@ Desarrollar un modelo de aprendizaje automático capaz de predecir la probabilid
 
   Enlace: https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset
 
+## Modelos Utilizados
+
+- **Decision Tree Classifier:** Luego de probar con varios modelos, tanto supervisados como no supervisados, el que mejor resultado nos dio fue el Decision Tree Classifier, por lo que será el que usaremos para realizar las predicciones.
+- **Algoritmos Genéticos:** 
+
+## Enlaces
+- **Video YouTube:**
+- **Notebook Funcional:**
+- **Repositorio:** 
